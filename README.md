@@ -5,6 +5,6 @@ In this project, we took a subset of 110.000 spectra from the Sloan Digital Sky 
 
 ### The article related to this project is in folder :" Final-Report-V1.docx.pdf3
 
-## The code of the data extraction of the dataset and the data analysis is on
+### The code of the data extraction of the dataset and the data analysis is on : "DataExtraction"
 
-## The code for the data reduction and the test of different classification algorithm is on
+### The code for the data reduction and the test of different classification algorithm is on : "BestModel"
